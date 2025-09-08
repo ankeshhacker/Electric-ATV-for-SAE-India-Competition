@@ -88,6 +88,15 @@ Our main objective was to **replace the internal combustion engine with a reliab
 
 ---
 
+## 📸 Certificate
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b3991c47-7d6d-48c5-8107-cf67ec82ece8" width="22%" />
+  <img src="https://github.com/user-attachments/assets/9352e349-bdbb-40c6-bfca-93f3929e48b5" width="22%" />
+
+ 
+</p>
+
+---
 ## 📌 Future Scope
 - Upgrade to **OEM-certified LV components** and improve compliance for future competitions.
 - Implement **motor and gearbox enclosure** for additional safety.
