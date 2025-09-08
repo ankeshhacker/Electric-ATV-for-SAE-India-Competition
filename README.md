@@ -78,8 +78,12 @@ Our main objective was to **replace the internal combustion engine with a reliab
  
 </p>
 
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ff5ab748-463a-4f79-bec2-e26db585dd9b" width="22%" />
+  <img src="https://github.com/user-attachments/assets/bb12a59b-ca09-4976-a89c-2f1ceb63d514" width="22%" />
+  <img src="https://github.com/user-attachments/assets/592b4d24-a833-4684-a465-d75611041f56" width="22%" />
+  <img src="https://github.com/user-attachments/assets/cd147402-4ff2-424d-9201-8ee0f021bad7" width="22%" />
+</p>
 
 
 ---
